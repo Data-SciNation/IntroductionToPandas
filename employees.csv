@@ -1,0 +1,101 @@
+employee_id,days_employed,salary,department
+1,708,130116,sales
+2,991,142105,sales
+3,416,114153,information technology
+4,1266,121731,information technology
+5,727,132855,management
+6,1127,147883,sales
+7,631,120784,sales
+8,1251,78298,sales
+9,1078,90325,sales
+10,668,133273,sales
+11,850,135640,sales
+12,63,63402,data science
+13,720,35171,management
+14,850,144769,management
+15,263,68974,sales
+16,263,105328,information technology
+17,364,37183,sales
+18,1002,96373,sales
+19,1341,48377,sales
+20,530,86720,management
+21,605,52991,finance
+22,780,143685,management
+23,726,130975,sales
+24,484,120596,sales
+25,393,116034,information technology
+26,648,93798,sales
+27,785,44037,management
+28,192,147405,information technology
+29,649,100238,finance
+30,953,118270,information technology
+31,866,60929,finance
+32,98,102535,information technology
+33,209,50309,sales
+34,696,39183,sales
+35,431,58946,data science
+36,608,133709,information technology
+37,595,58287,finance
+38,462,88708,management
+39,473,100127,management
+40,534,126866,data science
+41,452,61074,finance
+42,889,106889,data science
+43,328,140572,data science
+44,1208,38568,data science
+45,74,60109,sales
+46,627,57484,management
+47,976,132285,sales
+48,625,88331,finance
+49,850,101120,data science
+50,393,144317,sales
+51,1302,138651,management
+52,1248,72225,information technology
+53,397,55635,finance
+54,1314,88055,management
+55,615,101071,management
+56,1232,91145,finance
+57,1038,136239,information technology
+58,91,50894,finance
+59,972,48047,information technology
+60,111,56821,information technology
+61,1293,92886,finance
+62,862,124524,management
+63,1058,139615,data science
+64,959,119532,information technology
+65,694,115422,management
+66,753,112845,data science
+67,877,133239,finance
+68,1181,55477,management
+69,900,112622,management
+70,352,88798,finance
+71,239,121189,finance
+72,1265,104054,finance
+73,331,95529,information technology
+74,547,147678,finance
+75,614,68260,information technology
+76,753,86407,information technology
+77,46,82851,finance
+78,1113,115280,sales
+79,758,110035,data science
+80,753,109707,information technology
+81,179,104821,sales
+82,74,130155,finance
+83,931,46517,sales
+84,333,51578,finance
+85,509,88722,management
+86,693,43754,data science
+87,1232,75740,finance
+88,956,136217,finance
+89,968,79532,management
+90,1263,102471,management
+91,1203,84237,finance
+92,114,50400,information technology
+93,353,79792,information technology
+94,44,147180,data science
+95,590,107283,sales
+96,286,118490,sales
+97,757,116478,management
+98,31,68792,sales
+99,668,89493,management
+100,513,89934,data science
